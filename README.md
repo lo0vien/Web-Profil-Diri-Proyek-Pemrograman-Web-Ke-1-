@@ -1,6 +1,6 @@
 # 🌸 Website Profil Pribadi – Proyek Pemrograman Web 🌸
 
-Halo! Saya **Lovien Najla Dhafiyah**, mahasiswi **Universitas Bengkulu** Program Studi **Informatika** Angkatan **2024** dengan **NPM G1A024055**. 🤍  
+Halo! Saya **Lovien Najla Dhafiyah**, mahasiswi **Universitas Bengkulu** Program Studi **Informatika** Angkatan **2024** dengan **NPM G1A024055**. 
 Website ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah **Proyek Pemrograman Web**.
 
 Website ini berisi informasi mengenai data diri saya, yang mencakup:
