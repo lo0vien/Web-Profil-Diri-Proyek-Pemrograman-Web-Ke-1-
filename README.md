@@ -52,7 +52,6 @@ Beberapa bagian kode penting yang digunakan dalam website ini antara lain:
 
 ### 1. Menampilkan Ikon (Favicon) pada Tab Browser
 
-html
 <link rel="icon" type="image/jpg" sizes="16x16" href="image/logo.jpg">
 <link rel="manifest" href="/site.webmanifest">
 
@@ -61,7 +60,6 @@ Kode ini digunakan untuk menampilkan logo sebagai ikon pada bar/tab website.
 
 ### 2. Menampilkan Header dengan Posisi Rata Tengah
 
-html
 <header style="text-align: center;">
 
 
