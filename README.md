@@ -1,22 +1,22 @@
-# README
+# 🌸 Website Profil Pribadi – Proyek Pemrograman Web 🌸
 
-## Website Profil Pribadi – Proyek Pemrograman Web
-
-Halo! Saya **Lovien Najla Dhafiyah**, mahasiswi **Universitas Bengkulu** Program Studi **Informatika** Angkatan **2024** dengan **NPM G1A024055**. Website ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah **Proyek Pemrograman Web**.
+Halo! Saya **Lovien Najla Dhafiyah**, mahasiswi **Universitas Bengkulu** Program Studi **Informatika** Angkatan **2024** dengan **NPM G1A024055**. 🤍  
+Website ini dibuat sebagai bagian dari pemenuhan tugas mata kuliah **Proyek Pemrograman Web**.
 
 Website ini berisi informasi mengenai data diri saya, yang mencakup:
-- Riwayat pendidikan yang telah dan/atau sedang saya tempuh
-- Hobi dan minat
-- Keahlian
-- Informasi kontak
-- Curriculum Vitae (CV) dalam format PDF yang dapat diunduh
+* 🎓 Riwayat pendidikan yang telah dan/atau sedang saya tempuh
+* 🎨 Hobi dan minat
+* ✨ Keahlian
+* 📞 Informasi kontak
+* 📄 Curriculum Vitae (CV) dalam format PDF yang dapat diunduh
 
 ---
 
-## Struktur Folder dan File
+## 📂 Struktur Folder dan File
 
-### Bagan Struktur Folder
+Berikut adalah susunan direktori dalam proyek ini:
 
+```text
 ├── index.html  
 ├── about.html  
 ├── hobby.html  
@@ -26,8 +26,8 @@ Website ini berisi informasi mengenai data diri saya, yang mencakup:
 │   ├── foto-profil.jpg  
 │   └── logo.jpg  
 └── video  
-    └── halo.mp4  
-
+    └── halo.mp4
+```
 ### Penjelasan Struktur
 
 1. Folder image  
@@ -53,38 +53,38 @@ Terdapat empat file utama dengan format .html, yaitu:
 Berikut beberapa bagian kode HTML penting yang digunakan dalam website ini.
 
 ### 1. Menampilkan Ikon (Favicon) pada Tab Browser
-
+```html
 <link rel="icon" type="image/jpg" sizes="16x16" href="image/logo.jpg">
 <link rel="manifest" href="site.webmanifest">
-
+```
 Kode ini digunakan untuk menampilkan logo sebagai ikon pada tab browser website.
 
 ---
 
 ### 2. Menampilkan Header dengan Posisi Rata Tengah
-
+```html
 <header style="text-align: center;">
-
+```
 Kode ini digunakan untuk mengatur tampilan header agar berada di tengah halaman sehingga terlihat lebih rapi dan proporsional.
 
 ---
 
 ### 3. Menampilkan Video pada Halaman About Me
-
+```html
 <p>
   <video width="320" height="240" controls>
     <source src="video/halo.mp4" type="video/mp4">
   </video>
 </p>
-
+```
 Kode ini digunakan untuk menampilkan video sapaan pada halaman About Me.
 
 ---
 
 ### 4. Menautkan dan Mengunduh CV
-
+```html
 <a href="CV-Lovien.pdf" target="_blank">Download CV</a>
-
+```
 Kode ini digunakan untuk menautkan file CV agar dapat dibuka di tab baru serta diunduh oleh pengunjung website.
 
 ---
