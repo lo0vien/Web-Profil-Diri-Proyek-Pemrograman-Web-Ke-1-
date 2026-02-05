@@ -12,7 +12,7 @@ Website ini berisi informasi mengenai data diri saya, yang mencakup:
 
 ---
 
-## 📂 Struktur Folder dan File
+## Struktur Folder dan File
 
 Berikut adalah susunan direktori dalam proyek ini:
 
